@@ -1,0 +1,6 @@
+What language are you using to make this project possible?
+What math calculations are you solving to make the rotation of the cube possible?
+What is the expected date (dealine) for the project?
+
+
+Make sure to be more specific in your README.txt file
