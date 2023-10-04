@@ -9,3 +9,5 @@ Interestingly enough, linear algebra is a highly relevant mathematical field in 
 
 Through completing this project, I learned more about the C programming language, and now I understand why it is not that popular of a language these days.
 It also taught me a little bit more about the practices used in computer graphics, such as zbuffer.
+
+# If there are any questions or concerns, please let me know!
