@@ -41,3 +41,7 @@ While the current iteration of the Spinning Cube Project offers a solid foundati
 ## Acknowledgments
 
 This project would not have been possible without the inspiration drawn from countless enthusiasts and educators in the fields of mathematics, physics, and computer graphics. Their shared knowledge and passion have fueled this journey, and I hope this project serves as a bridge for others to explore the fascinating world of 3D graphics programming.
+
+
+The final demo should look something like this:
+![](https://github.com/emrebilge/SpinningCubeProject/blob/main/aaa.gif)
